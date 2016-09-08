@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MeshSmokeDetector</string>
+    <string name="textview_title">Mesh Status</string>
+    <string name="textview_alarm_staus">Alarm Status:</string>
+    <string name="text_uninitialized">uninitialized</string>
+    <string name="textview_node_nr_title">Connected Nodes in Mesh:</string>
+    <string name="textview_battery_title">Battery Status</string>
+    <string name="textview_battery_warning_detector_title">Detector Battery Warning:</string>
+    <string name="textview_battery_warning_node_title">Node Battery Warning:</string>
+    <string name="textview_mesh_functions_title">Mesh Management</string>
+    <string name="textview_mesh_alarm_mute_title">Mute Alarm</string>
+    <string name="textview_start_test_alarm_title">Start Test Alarm</string>
+</resources>
